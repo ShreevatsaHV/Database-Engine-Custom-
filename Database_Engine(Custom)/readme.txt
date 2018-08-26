@@ -1,7 +1,3 @@
-Name : Shreevatsa Hosakere Vittal Rao
-
-The application is submitted in a zipped folder.
-
 The application supports following queries.
 
 * The spaces and other punctuations have to be in the format provided in the below queries.
